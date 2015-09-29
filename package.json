@@ -1,0 +1,18 @@
+{
+  "name": "kad-strings",
+  "version": "0.0.1",
+  "description": "String algorithms are fun.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kyldvs/strings"
+  },
+  "scripts": {
+    "build": "gulp build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "kad-boilerplate": "0.0.5"
+  }
+}
